@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Mani Muse'
+const appName = 'ManiMuse'
 </script>
 
 <template>
