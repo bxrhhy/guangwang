@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'FOTOFLOW'
+const appName = 'Eyeful'
 </script>
 
 <template>
