@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'WritIm'
+const appName = 'AntiHub'
 </script>
 
 <template>
